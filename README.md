@@ -91,7 +91,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 Open the project folder:
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd Netflix Movie Recommendation System
 ```
 
 Install dependencies:
