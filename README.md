@@ -85,7 +85,7 @@ streamlit run app.py
 ## 🔗 Repository
 
 ```bash
-git clone [https://github.com/palaktonke06-a11y/Netflix-Movie-Recommendation-System.git]
+git clone [https://github.com/palaktonke06-a11y/Netflix-Movie-Recommendation-System]
 ```
 
 Open the project folder:
