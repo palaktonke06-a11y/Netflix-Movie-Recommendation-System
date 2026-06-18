@@ -1,2 +1,108 @@
-# Netflix-Movie-Recommendation-System
-🎬 Netflix AI Movie Recommendation System is a Streamlit-based machine learning application that recommends similar movies using TF-IDF and Cosine Similarity. It features a Netflix-inspired UI, movie posters, ratings, release dates, and descriptions, providing users with an interactive and personalized movie discovery experience.
+# 🎬 Netflix AI Movie Recommendation System
+
+A Netflix-inspired Movie Recommendation System built using **Streamlit**, **Machine Learning**, and **Content-Based Filtering**. The application recommends similar movies based on movie descriptions and genres using **TF-IDF Vectorization** and **Cosine Similarity**.
+
+## 🌐 Live Demo
+
+**Live Project:** [https://netflix-movie-recommendation-system-zchaznts7bmkncwbsfpgjy.streamlit.app/]
+
+---
+
+## 📸 Project Preview
+
+![Netflix AI Dashboard](Screenshot 2026-06-18 223045.png)
+
+---
+
+## 🚀 Features
+
+| Feature                  | Description                              |
+| ------------------------ | ---------------------------------------- |
+| 🎬 Movie Recommendations | Recommends similar movies instantly      |
+| ⭐ Ratings                | Displays movie ratings                   |
+| 🖼️ Movie Posters        | Shows movie posters with recommendations |
+| 📅 Release Date          | Displays release year/date               |
+| 📝 Movie Overview        | Brief movie description                  |
+| 🌙 Netflix Theme         | Professional Netflix-inspired dark UI    |
+| 🤖 Machine Learning      | TF-IDF + Cosine Similarity Algorithm     |
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology        | Purpose                   |
+| ----------------- | ------------------------- |
+| Python            | Programming Language      |
+| Streamlit         | Web Application Framework |
+| Pandas            | Data Processing           |
+| Scikit-Learn      | Machine Learning          |
+| TF-IDF            | Feature Extraction        |
+| Cosine Similarity | Recommendation Engine     |
+
+---
+
+## 📂 Project Structure
+
+```text
+NetflixAI/
+│
+├── app.py
+├── movies.csv
+├── poster.csv
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
+## 📊 Dataset Information
+
+| File       | Description                              |
+| ---------- | ---------------------------------------- |
+| movies.csv | Movie details, ratings, genres, overview |
+| poster.csv | Movie poster URLs                        |
+
+---
+
+## 🎯 Recommendation Logic
+
+1. Movie Overview & Genres Combined
+2. TF-IDF Vectorization Applied
+3. Cosine Similarity Calculated
+4. Top Similar Movies Recommended
+
+---
+
+## 🔗 Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+```
+
+Open the project folder:
+
+```bash
+cd YOUR_REPOSITORY_NAME
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+```bash
+streamlit run app.py
+```
+
