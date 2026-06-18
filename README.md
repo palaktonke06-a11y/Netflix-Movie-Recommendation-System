@@ -10,7 +10,7 @@ A Netflix-inspired Movie Recommendation System built using **Streamlit**, **Mach
 
 ## 📸 Project Preview
 
-![Netflix AI Dashboard](Screenshot 2026-06-18 223045.png)
+![Netflix AI Dashboard](Screenshot%202026-06-18%20223045.png)
 
 ---
 
@@ -85,7 +85,7 @@ streamlit run app.py
 ## 🔗 Repository
 
 ```bash
-git clone https://github.com/palaktonke06-a11y/Netflix-Movie-Recommendation-System.git
+git clone [https://github.com/palaktonke06-a11y/Netflix-Movie-Recommendation-System.git]
 ```
 
 Open the project folder:
