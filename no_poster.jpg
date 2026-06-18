@@ -1,0 +1,4 @@
+st.image(
+    "no_poster.jpg",
+    width=220
+)
